@@ -79,3 +79,13 @@ Now working through OverTheWire Bandit (currently on hiatus because of universit
 I'm not lazy, and I'm not done.
 
 All told — counting the dead builds, the time it sat untouched, and the rebuild to where it is now — this project has taken three years from start to today. It's not a weekend project or a tutorial I followed once. It's proof of the struggle and the exhilaration both — the dead hardware, the lost data, the outages, the hours of not understanding and then understanding. That's the actual story behind the containers running today.
+
+## Why this wasn't documented earlier
+
+When I started my Higher Certificate, I had no idea I needed to document any of this. All I knew was that I hadn't gotten into Computer Science, and I wanted to prove to myself that I could still get where I was going.
+
+After doing heavy research and building my NAS, I realised how much documenting your journey matters. It helps in every way, from personal growth to employability. Anyone looking at my work should be able to see how I think, how I fix things, and how I've grown, not just the end result.
+
+I've also realised the HC was probably the better path for me. It taught me how to work, how to study, and what to expect at university. It's been a real growing point, and I honestly don't think I would have managed going straight into Computer Science. 
+
+From here on, I'm documenting my final projects and personal ideas, starting from the first commit on this account.
